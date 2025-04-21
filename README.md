@@ -17,3 +17,5 @@ go mod tidy
 ```sh
 go test ./...
 ```
+
+Inspired by https://github.com/nchursin/coding-dojo-go.
